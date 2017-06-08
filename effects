@@ -1,0 +1,17 @@
+body{
+	font-family: verdana;
+	background-color: black;
+}
+table{
+	background-color: white;
+	border:1px solid white;
+	border-collapse: collapse;
+	margon: auto;
+}
+tbody:hover{
+	background-color: #b3ffff;
+}
+th{
+	border: 1px solid white;
+	background-color: yellow;
+}
